@@ -1,0 +1,212 @@
+-- Merging decision tree log ---
+manifest
+ADDED from D:\Projects\CUBE\OculusHandTracking\OculusHandTracking\Temp\OVRGradleExport\launcher\src\main\AndroidManifest.xml:3:1-6:12
+INJECTED from D:\Projects\CUBE\OculusHandTracking\OculusHandTracking\Temp\OVRGradleExport\launcher\src\main\AndroidManifest.xml:3:1-6:12
+INJECTED from D:\Projects\CUBE\OculusHandTracking\OculusHandTracking\Temp\OVRGradleExport\launcher\src\main\AndroidManifest.xml:3:1-6:12
+INJECTED from D:\Projects\CUBE\OculusHandTracking\OculusHandTracking\Temp\OVRGradleExport\launcher\src\main\AndroidManifest.xml:3:1-6:12
+MERGED from [:unityLibrary] D:\Projects\CUBE\OculusHandTracking\OculusHandTracking\Temp\OVRGradleExport\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:3:1-92:12
+MERGED from [:OVRPlugin:] C:\Users\PH_PHOTO_PC2016\.gradle\caches\transforms-2\files-2.1\0969c8d02211b3a8bc3571e45834ba11\AndroidManifest.xml:2:1-4:12
+INJECTED from D:\Projects\CUBE\OculusHandTracking\OculusHandTracking\Temp\OVRGradleExport\launcher\src\main\AndroidManifest.xml:3:1-6:12
+INJECTED from D:\Projects\CUBE\OculusHandTracking\OculusHandTracking\Temp\OVRGradleExport\launcher\src\main\AndroidManifest.xml:3:1-6:12
+INJECTED from D:\Projects\CUBE\OculusHandTracking\OculusHandTracking\Temp\OVRGradleExport\launcher\src\main\AndroidManifest.xml:3:1-6:12
+	package
+		ADDED from D:\Projects\CUBE\OculusHandTracking\OculusHandTracking\Temp\OVRGradleExport\launcher\src\main\AndroidManifest.xml:3:70-118
+		INJECTED from D:\Projects\CUBE\OculusHandTracking\OculusHandTracking\Temp\OVRGradleExport\launcher\src\main\AndroidManifest.xml
+		INJECTED from D:\Projects\CUBE\OculusHandTracking\OculusHandTracking\Temp\OVRGradleExport\launcher\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from D:\Projects\CUBE\OculusHandTracking\OculusHandTracking\Temp\OVRGradleExport\launcher\src\main\AndroidManifest.xml
+		ADDED from D:\Projects\CUBE\OculusHandTracking\OculusHandTracking\Temp\OVRGradleExport\launcher\src\main\AndroidManifest.xml:3:1-6:12
+		INJECTED from D:\Projects\CUBE\OculusHandTracking\OculusHandTracking\Temp\OVRGradleExport\launcher\src\main\AndroidManifest.xml
+	xmlns:tools
+		ADDED from D:\Projects\CUBE\OculusHandTracking\OculusHandTracking\Temp\OVRGradleExport\launcher\src\main\AndroidManifest.xml:3:119-165
+	android:versionCode
+		INJECTED from D:\Projects\CUBE\OculusHandTracking\OculusHandTracking\Temp\OVRGradleExport\launcher\src\main\AndroidManifest.xml
+		ADDED from D:\Projects\CUBE\OculusHandTracking\OculusHandTracking\Temp\OVRGradleExport\launcher\src\main\AndroidManifest.xml:3:1-6:12
+		INJECTED from D:\Projects\CUBE\OculusHandTracking\OculusHandTracking\Temp\OVRGradleExport\launcher\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from D:\Projects\CUBE\OculusHandTracking\OculusHandTracking\Temp\OVRGradleExport\launcher\src\main\AndroidManifest.xml:3:11-69
+	android:installLocation
+		ADDED from D:\Projects\CUBE\OculusHandTracking\OculusHandTracking\Temp\OVRGradleExport\launcher\src\main\AndroidManifest.xml:3:166-196
+supports-screens
+ADDED from D:\Projects\CUBE\OculusHandTracking\OculusHandTracking\Temp\OVRGradleExport\launcher\src\main\AndroidManifest.xml:4:3-163
+	android:largeScreens
+		ADDED from D:\Projects\CUBE\OculusHandTracking\OculusHandTracking\Temp\OVRGradleExport\launcher\src\main\AndroidManifest.xml:4:78-105
+	android:smallScreens
+		ADDED from D:\Projects\CUBE\OculusHandTracking\OculusHandTracking\Temp\OVRGradleExport\launcher\src\main\AndroidManifest.xml:4:21-48
+	android:normalScreens
+		ADDED from D:\Projects\CUBE\OculusHandTracking\OculusHandTracking\Temp\OVRGradleExport\launcher\src\main\AndroidManifest.xml:4:49-77
+	android:xlargeScreens
+		ADDED from D:\Projects\CUBE\OculusHandTracking\OculusHandTracking\Temp\OVRGradleExport\launcher\src\main\AndroidManifest.xml:4:106-134
+	android:anyDensity
+		ADDED from D:\Projects\CUBE\OculusHandTracking\OculusHandTracking\Temp\OVRGradleExport\launcher\src\main\AndroidManifest.xml:4:135-160
+application
+ADDED from D:\Projects\CUBE\OculusHandTracking\OculusHandTracking\Temp\OVRGradleExport\launcher\src\main\AndroidManifest.xml:5:3-83
+MERGED from [:unityLibrary] D:\Projects\CUBE\OculusHandTracking\OculusHandTracking\Temp\OVRGradleExport\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:46:5-90:19
+MERGED from [:unityLibrary] D:\Projects\CUBE\OculusHandTracking\OculusHandTracking\Temp\OVRGradleExport\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:46:5-90:19
+	android:label
+		ADDED from D:\Projects\CUBE\OculusHandTracking\OculusHandTracking\Temp\OVRGradleExport\launcher\src\main\AndroidManifest.xml:5:16-48
+	android:allowBackup
+		ADDED from [:unityLibrary] D:\Projects\CUBE\OculusHandTracking\OculusHandTracking\Temp\OVRGradleExport\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:47:9-36
+	android:icon
+		ADDED from D:\Projects\CUBE\OculusHandTracking\OculusHandTracking\Temp\OVRGradleExport\launcher\src\main\AndroidManifest.xml:5:49-80
+	android:networkSecurityConfig
+		ADDED from [:unityLibrary] D:\Projects\CUBE\OculusHandTracking\OculusHandTracking\Temp\OVRGradleExport\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:50:9-64
+uses-sdk
+INJECTED from D:\Projects\CUBE\OculusHandTracking\OculusHandTracking\Temp\OVRGradleExport\launcher\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from D:\Projects\CUBE\OculusHandTracking\OculusHandTracking\Temp\OVRGradleExport\launcher\src\main\AndroidManifest.xml
+INJECTED from D:\Projects\CUBE\OculusHandTracking\OculusHandTracking\Temp\OVRGradleExport\launcher\src\main\AndroidManifest.xml
+MERGED from [:unityLibrary] D:\Projects\CUBE\OculusHandTracking\OculusHandTracking\Temp\OVRGradleExport\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:10:5-12:41
+MERGED from [:unityLibrary] D:\Projects\CUBE\OculusHandTracking\OculusHandTracking\Temp\OVRGradleExport\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:10:5-12:41
+MERGED from [:OVRPlugin:] C:\Users\PH_PHOTO_PC2016\.gradle\caches\transforms-2\files-2.1\0969c8d02211b3a8bc3571e45834ba11\AndroidManifest.xml:3:3-45
+MERGED from [:OVRPlugin:] C:\Users\PH_PHOTO_PC2016\.gradle\caches\transforms-2\files-2.1\0969c8d02211b3a8bc3571e45834ba11\AndroidManifest.xml:3:3-45
+INJECTED from D:\Projects\CUBE\OculusHandTracking\OculusHandTracking\Temp\OVRGradleExport\launcher\src\main\AndroidManifest.xml
+INJECTED from D:\Projects\CUBE\OculusHandTracking\OculusHandTracking\Temp\OVRGradleExport\launcher\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from D:\Projects\CUBE\OculusHandTracking\OculusHandTracking\Temp\OVRGradleExport\launcher\src\main\AndroidManifest.xml
+		ADDED from D:\Projects\CUBE\OculusHandTracking\OculusHandTracking\Temp\OVRGradleExport\launcher\src\main\AndroidManifest.xml
+		INJECTED from D:\Projects\CUBE\OculusHandTracking\OculusHandTracking\Temp\OVRGradleExport\launcher\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from D:\Projects\CUBE\OculusHandTracking\OculusHandTracking\Temp\OVRGradleExport\launcher\src\main\AndroidManifest.xml
+		ADDED from D:\Projects\CUBE\OculusHandTracking\OculusHandTracking\Temp\OVRGradleExport\launcher\src\main\AndroidManifest.xml
+		MERGED from D:\Projects\CUBE\OculusHandTracking\OculusHandTracking\Temp\OVRGradleExport\launcher\src\main\AndroidManifest.xml
+		INJECTED from D:\Projects\CUBE\OculusHandTracking\OculusHandTracking\Temp\OVRGradleExport\launcher\src\main\AndroidManifest.xml
+uses-feature#0x00030000
+ADDED from [:unityLibrary] D:\Projects\CUBE\OculusHandTracking\OculusHandTracking\Temp\OVRGradleExport\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:14:5-54
+	android:glEsVersion
+		ADDED from [:unityLibrary] D:\Projects\CUBE\OculusHandTracking\OculusHandTracking\Temp\OVRGradleExport\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:14:19-51
+uses-feature#android.hardware.vulkan.version
+ADDED from [:unityLibrary] D:\Projects\CUBE\OculusHandTracking\OculusHandTracking\Temp\OVRGradleExport\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:15:5-17:36
+	android:required
+		ADDED from [:unityLibrary] D:\Projects\CUBE\OculusHandTracking\OculusHandTracking\Temp\OVRGradleExport\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:17:9-33
+	android:name
+		ADDED from [:unityLibrary] D:\Projects\CUBE\OculusHandTracking\OculusHandTracking\Temp\OVRGradleExport\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:16:9-55
+uses-permission#android.permission.INTERNET
+ADDED from [:unityLibrary] D:\Projects\CUBE\OculusHandTracking\OculusHandTracking\Temp\OVRGradleExport\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:19:5-67
+	android:name
+		ADDED from [:unityLibrary] D:\Projects\CUBE\OculusHandTracking\OculusHandTracking\Temp\OVRGradleExport\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:19:22-64
+uses-permission#android.permission.RECORD_AUDIO
+ADDED from [:unityLibrary] D:\Projects\CUBE\OculusHandTracking\OculusHandTracking\Temp\OVRGradleExport\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:20:5-71
+	android:name
+		ADDED from [:unityLibrary] D:\Projects\CUBE\OculusHandTracking\OculusHandTracking\Temp\OVRGradleExport\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:20:22-68
+uses-permission#android.permission.MODIFY_AUDIO_SETTINGS
+ADDED from [:unityLibrary] D:\Projects\CUBE\OculusHandTracking\OculusHandTracking\Temp\OVRGradleExport\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:21:5-80
+	android:name
+		ADDED from [:unityLibrary] D:\Projects\CUBE\OculusHandTracking\OculusHandTracking\Temp\OVRGradleExport\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:21:22-77
+uses-permission#android.permission.BLUETOOTH
+ADDED from [:unityLibrary] D:\Projects\CUBE\OculusHandTracking\OculusHandTracking\Temp\OVRGradleExport\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:22:5-68
+	android:name
+		ADDED from [:unityLibrary] D:\Projects\CUBE\OculusHandTracking\OculusHandTracking\Temp\OVRGradleExport\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:22:22-65
+uses-feature#android.hardware.microphone
+ADDED from [:unityLibrary] D:\Projects\CUBE\OculusHandTracking\OculusHandTracking\Temp\OVRGradleExport\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:24:5-26:36
+	android:required
+		ADDED from [:unityLibrary] D:\Projects\CUBE\OculusHandTracking\OculusHandTracking\Temp\OVRGradleExport\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:26:9-33
+	android:name
+		ADDED from [:unityLibrary] D:\Projects\CUBE\OculusHandTracking\OculusHandTracking\Temp\OVRGradleExport\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:25:9-51
+uses-feature#android.hardware.touchscreen
+ADDED from [:unityLibrary] D:\Projects\CUBE\OculusHandTracking\OculusHandTracking\Temp\OVRGradleExport\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:27:5-29:36
+	android:required
+		ADDED from [:unityLibrary] D:\Projects\CUBE\OculusHandTracking\OculusHandTracking\Temp\OVRGradleExport\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:29:9-33
+	android:name
+		ADDED from [:unityLibrary] D:\Projects\CUBE\OculusHandTracking\OculusHandTracking\Temp\OVRGradleExport\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:28:9-52
+uses-feature#android.hardware.touchscreen.multitouch
+ADDED from [:unityLibrary] D:\Projects\CUBE\OculusHandTracking\OculusHandTracking\Temp\OVRGradleExport\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:30:5-32:36
+	android:required
+		ADDED from [:unityLibrary] D:\Projects\CUBE\OculusHandTracking\OculusHandTracking\Temp\OVRGradleExport\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:32:9-33
+	android:name
+		ADDED from [:unityLibrary] D:\Projects\CUBE\OculusHandTracking\OculusHandTracking\Temp\OVRGradleExport\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:31:9-63
+uses-feature#android.hardware.touchscreen.multitouch.distinct
+ADDED from [:unityLibrary] D:\Projects\CUBE\OculusHandTracking\OculusHandTracking\Temp\OVRGradleExport\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:33:5-35:36
+	android:required
+		ADDED from [:unityLibrary] D:\Projects\CUBE\OculusHandTracking\OculusHandTracking\Temp\OVRGradleExport\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:35:9-33
+	android:name
+		ADDED from [:unityLibrary] D:\Projects\CUBE\OculusHandTracking\OculusHandTracking\Temp\OVRGradleExport\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:34:9-72
+uses-feature#android.hardware.vr.headtracking
+ADDED from [:unityLibrary] D:\Projects\CUBE\OculusHandTracking\OculusHandTracking\Temp\OVRGradleExport\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:36:5-39:31
+	android:version
+		ADDED from [:unityLibrary] D:\Projects\CUBE\OculusHandTracking\OculusHandTracking\Temp\OVRGradleExport\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:39:9-28
+	android:required
+		ADDED from [:unityLibrary] D:\Projects\CUBE\OculusHandTracking\OculusHandTracking\Temp\OVRGradleExport\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:38:9-32
+	android:name
+		ADDED from [:unityLibrary] D:\Projects\CUBE\OculusHandTracking\OculusHandTracking\Temp\OVRGradleExport\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:37:9-56
+uses-feature#oculus.software.handtracking
+ADDED from [:unityLibrary] D:\Projects\CUBE\OculusHandTracking\OculusHandTracking\Temp\OVRGradleExport\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:40:5-42:36
+	android:required
+		ADDED from [:unityLibrary] D:\Projects\CUBE\OculusHandTracking\OculusHandTracking\Temp\OVRGradleExport\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:42:9-33
+	android:name
+		ADDED from [:unityLibrary] D:\Projects\CUBE\OculusHandTracking\OculusHandTracking\Temp\OVRGradleExport\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:41:9-52
+uses-permission#oculus.permission.handtracking
+ADDED from [:unityLibrary] D:\Projects\CUBE\OculusHandTracking\OculusHandTracking\Temp\OVRGradleExport\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:44:5-70
+	android:name
+		ADDED from [:unityLibrary] D:\Projects\CUBE\OculusHandTracking\OculusHandTracking\Temp\OVRGradleExport\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:44:22-67
+activity#com.unity3d.player.UnityPlayerActivity
+ADDED from [:unityLibrary] D:\Projects\CUBE\OculusHandTracking\OculusHandTracking\Temp\OVRGradleExport\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:51:9-73:20
+	android:screenOrientation
+		ADDED from [:unityLibrary] D:\Projects\CUBE\OculusHandTracking\OculusHandTracking\Temp\OVRGradleExport\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:56:13-50
+	android:launchMode
+		ADDED from [:unityLibrary] D:\Projects\CUBE\OculusHandTracking\OculusHandTracking\Temp\OVRGradleExport\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:55:13-44
+	android:hardwareAccelerated
+		ADDED from [:unityLibrary] D:\Projects\CUBE\OculusHandTracking\OculusHandTracking\Temp\OVRGradleExport\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:54:13-48
+	android:configChanges
+		ADDED from [:unityLibrary] D:\Projects\CUBE\OculusHandTracking\OculusHandTracking\Temp\OVRGradleExport\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:53:13-114
+	android:theme
+		ADDED from [:unityLibrary] D:\Projects\CUBE\OculusHandTracking\OculusHandTracking\Temp\OVRGradleExport\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:57:13-77
+	android:name
+		ADDED from [:unityLibrary] D:\Projects\CUBE\OculusHandTracking\OculusHandTracking\Temp\OVRGradleExport\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:52:13-66
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.INFO
+ADDED from [:unityLibrary] D:\Projects\CUBE\OculusHandTracking\OculusHandTracking\Temp\OVRGradleExport\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:58:13-62:29
+action#android.intent.action.MAIN
+ADDED from [:unityLibrary] D:\Projects\CUBE\OculusHandTracking\OculusHandTracking\Temp\OVRGradleExport\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:59:17-69
+	android:name
+		ADDED from [:unityLibrary] D:\Projects\CUBE\OculusHandTracking\OculusHandTracking\Temp\OVRGradleExport\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:59:25-66
+category#android.intent.category.INFO
+ADDED from [:unityLibrary] D:\Projects\CUBE\OculusHandTracking\OculusHandTracking\Temp\OVRGradleExport\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:61:17-73
+	android:name
+		ADDED from [:unityLibrary] D:\Projects\CUBE\OculusHandTracking\OculusHandTracking\Temp\OVRGradleExport\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:61:27-70
+meta-data#unityplayer.UnityActivity
+ADDED from [:unityLibrary] D:\Projects\CUBE\OculusHandTracking\OculusHandTracking\Temp\OVRGradleExport\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:64:13-66:40
+	android:value
+		ADDED from [:unityLibrary] D:\Projects\CUBE\OculusHandTracking\OculusHandTracking\Temp\OVRGradleExport\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:66:17-37
+	android:name
+		ADDED from [:unityLibrary] D:\Projects\CUBE\OculusHandTracking\OculusHandTracking\Temp\OVRGradleExport\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:65:17-57
+meta-data#android.notch_support
+ADDED from [:unityLibrary] D:\Projects\CUBE\OculusHandTracking\OculusHandTracking\Temp\OVRGradleExport\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:67:13-69:40
+	android:value
+		ADDED from [:unityLibrary] D:\Projects\CUBE\OculusHandTracking\OculusHandTracking\Temp\OVRGradleExport\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:69:17-37
+	android:name
+		ADDED from [:unityLibrary] D:\Projects\CUBE\OculusHandTracking\OculusHandTracking\Temp\OVRGradleExport\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:68:17-53
+meta-data#com.oculus.vr.focusaware
+ADDED from [:unityLibrary] D:\Projects\CUBE\OculusHandTracking\OculusHandTracking\Temp\OVRGradleExport\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:70:13-72:41
+	android:value
+		ADDED from [:unityLibrary] D:\Projects\CUBE\OculusHandTracking\OculusHandTracking\Temp\OVRGradleExport\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:72:17-38
+	android:name
+		ADDED from [:unityLibrary] D:\Projects\CUBE\OculusHandTracking\OculusHandTracking\Temp\OVRGradleExport\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:71:17-56
+meta-data#unity.splash-mode
+ADDED from [:unityLibrary] D:\Projects\CUBE\OculusHandTracking\OculusHandTracking\Temp\OVRGradleExport\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:75:9-77:33
+	android:value
+		ADDED from [:unityLibrary] D:\Projects\CUBE\OculusHandTracking\OculusHandTracking\Temp\OVRGradleExport\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:77:13-30
+	android:name
+		ADDED from [:unityLibrary] D:\Projects\CUBE\OculusHandTracking\OculusHandTracking\Temp\OVRGradleExport\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:76:13-45
+meta-data#unity.splash-enable
+ADDED from [:unityLibrary] D:\Projects\CUBE\OculusHandTracking\OculusHandTracking\Temp\OVRGradleExport\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:78:9-80:37
+	android:value
+		ADDED from [:unityLibrary] D:\Projects\CUBE\OculusHandTracking\OculusHandTracking\Temp\OVRGradleExport\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:80:13-34
+	android:name
+		ADDED from [:unityLibrary] D:\Projects\CUBE\OculusHandTracking\OculusHandTracking\Temp\OVRGradleExport\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:79:13-47
+meta-data#notch.config
+ADDED from [:unityLibrary] D:\Projects\CUBE\OculusHandTracking\OculusHandTracking\Temp\OVRGradleExport\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:81:9-83:50
+	android:value
+		ADDED from [:unityLibrary] D:\Projects\CUBE\OculusHandTracking\OculusHandTracking\Temp\OVRGradleExport\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:83:13-47
+	android:name
+		ADDED from [:unityLibrary] D:\Projects\CUBE\OculusHandTracking\OculusHandTracking\Temp\OVRGradleExport\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:82:13-40
+meta-data#unity.build-id
+ADDED from [:unityLibrary] D:\Projects\CUBE\OculusHandTracking\OculusHandTracking\Temp\OVRGradleExport\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:84:9-86:68
+	android:value
+		ADDED from [:unityLibrary] D:\Projects\CUBE\OculusHandTracking\OculusHandTracking\Temp\OVRGradleExport\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:86:13-65
+	android:name
+		ADDED from [:unityLibrary] D:\Projects\CUBE\OculusHandTracking\OculusHandTracking\Temp\OVRGradleExport\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:85:13-42
+meta-data#com.samsung.android.vr.application.mode
+ADDED from [:unityLibrary] D:\Projects\CUBE\OculusHandTracking\OculusHandTracking\Temp\OVRGradleExport\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:87:9-89:39
+	android:value
+		ADDED from [:unityLibrary] D:\Projects\CUBE\OculusHandTracking\OculusHandTracking\Temp\OVRGradleExport\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:89:13-36
+	android:name
+		ADDED from [:unityLibrary] D:\Projects\CUBE\OculusHandTracking\OculusHandTracking\Temp\OVRGradleExport\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:88:13-67
