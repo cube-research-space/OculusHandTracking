@@ -78,43 +78,43 @@ ScriptsOnlyBuild:
     - Class: 109
       Script: {instanceID: 0}
     - Class: 114
-      Script: {instanceID: 11390}
+      Script: {instanceID: 11392}
     - Class: 114
-      Script: {instanceID: 11544}
+      Script: {instanceID: 11548}
     - Class: 114
-      Script: {instanceID: 11974}
+      Script: {instanceID: 11978}
     - Class: 114
-      Script: {instanceID: 12026}
+      Script: {instanceID: 12030}
     - Class: 114
-      Script: {instanceID: 12122}
+      Script: {instanceID: 12126}
     - Class: 114
-      Script: {instanceID: 12188}
+      Script: {instanceID: 12192}
     - Class: 114
-      Script: {instanceID: 12298}
+      Script: {instanceID: 12302}
     - Class: 114
-      Script: {instanceID: 12398}
+      Script: {instanceID: 12402}
     - Class: 114
-      Script: {instanceID: 12692}
+      Script: {instanceID: 12696}
     - Class: 114
-      Script: {instanceID: 12826}
+      Script: {instanceID: 12830}
     - Class: 114
-      Script: {instanceID: 12842}
+      Script: {instanceID: 12846}
     - Class: 114
-      Script: {instanceID: 12922}
+      Script: {instanceID: 12926}
     - Class: 114
-      Script: {instanceID: 13182}
+      Script: {instanceID: 13186}
     - Class: 114
-      Script: {instanceID: 13470}
+      Script: {instanceID: 13476}
     - Class: 114
-      Script: {instanceID: 13690}
+      Script: {instanceID: 13696}
     - Class: 114
-      Script: {instanceID: 13788}
+      Script: {instanceID: 13794}
     - Class: 114
-      Script: {instanceID: 13978}
+      Script: {instanceID: 13830}
     - Class: 114
-      Script: {instanceID: 14192}
+      Script: {instanceID: 13986}
     - Class: 114
-      Script: {instanceID: 21532}
+      Script: {instanceID: 14202}
     - Class: 115
       Script: {instanceID: 0}
     - Class: 135
@@ -1528,6 +1528,12 @@ ScriptsOnlyBuild:
     className: OVRGrabber
   - hash:
       serializedVersion: 2
+      Hash: adade79c3c48df535382ef646eda5479
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: LaserPointerController
+  - hash:
+      serializedVersion: 2
       Hash: 893dbdbfe611d62e230a686ea89f1efd
     assemblyName: UnityEngine.XR.LegacyInputHelpers.dll
     namespaceName: UnityEngine.XR.LegacyInputHelpers
@@ -1784,12 +1790,6 @@ ScriptsOnlyBuild:
     assemblyName: Unity.Timeline.dll
     namespaceName: UnityEngine.Timeline
     className: PlayableTrack
-  - hash:
-      serializedVersion: 2
-      Hash: adade79c3c48df535382ef646eda5479
-    assemblyName: Assembly-CSharp.dll
-    namespaceName: 
-    className: LaserPointerController
   platform: 13
   scenePathNames:
   - Assets/Scenes/BaseScene.unity

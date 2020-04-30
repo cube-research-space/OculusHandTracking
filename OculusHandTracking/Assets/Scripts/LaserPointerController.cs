@@ -35,7 +35,7 @@ public class LaserPointerController : MonoBehaviour
         {
             // Show and update laser beam
             //if (OVRInput.Get(OVRInput.Button.SecondaryIndexTrigger) || (OVRInput.Get(OVRInput.Button.PrimaryIndexTrigger)))
-            if (_Hand.GetFingerPinchStrength(OVRHand.HandFinger.Index) > 0.3f)      // Trigger laser beam when index finger is pinched
+            if (_Hand.GetFingerPinchStrength(OVRHand.HandFinger.Index) > 0.3f || OVRInput.Get(OVRInput.Button.SecondaryIndexTrigger) || (OVRInput.Get(OVRInput.Button.PrimaryIndexTrigger)))      // Trigger laser beam when index finger is pinched or controller trigger is pressed
             {
                 // Turn on laser
                 if (!laserBeam.activeSelf)
