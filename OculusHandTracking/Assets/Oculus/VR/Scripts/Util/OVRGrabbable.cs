@@ -43,7 +43,6 @@ public class OVRGrabbable : MonoBehaviour
     public bool allowOffhandGrab
     {
         get { return m_allowOffhandGrab; }
-        set { m_allowOffhandGrab = value; }
     }
 
 	/// <summary>

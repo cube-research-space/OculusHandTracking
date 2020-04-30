@@ -1,8 +1,7 @@
-﻿using System.Collections;
-using System.Collections.Generic;
-using UnityEngine;
-using OculusSampleFramework;
-
+﻿
+/// <summary>
+/// This class is responsible for enabling object grab using hands only tracking.
+/// </summary>
 public class OVRHandGrabber : OVRGrabber
 {
     private OVRHand hand;
