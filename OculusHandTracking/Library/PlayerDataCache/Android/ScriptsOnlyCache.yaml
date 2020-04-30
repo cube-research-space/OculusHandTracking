@@ -1,6 +1,7 @@
 ScriptsOnlyBuild:
   usedScripts:
     Assembly-CSharp.dll:
+    - OVRGrabbableExt
     - OVRHandGrabber
     - Oculus.Platform.PlatformSettings
     - OculusSampleFramework.HandsManager
@@ -9,7 +10,6 @@ ScriptsOnlyBuild:
     - OVRConfig
     Oculus.VR.dll:
     - OVRCameraRig
-    - OVRGrabbable
     - OVRHand
     - OVRHeadsetEmulator
     - OVRManager
@@ -68,29 +68,29 @@ ScriptsOnlyBuild:
     - Class: 114
       Script: {instanceID: 11544}
     - Class: 114
-      Script: {instanceID: 12052}
+      Script: {instanceID: 12024}
     - Class: 114
-      Script: {instanceID: 12118}
+      Script: {instanceID: 12054}
     - Class: 114
-      Script: {instanceID: 12184}
+      Script: {instanceID: 12120}
     - Class: 114
-      Script: {instanceID: 12392}
+      Script: {instanceID: 12186}
     - Class: 114
-      Script: {instanceID: 12820}
+      Script: {instanceID: 12394}
     - Class: 114
-      Script: {instanceID: 12852}
+      Script: {instanceID: 12822}
     - Class: 114
-      Script: {instanceID: 12916}
+      Script: {instanceID: 12918}
     - Class: 114
-      Script: {instanceID: 13176}
+      Script: {instanceID: 13178}
     - Class: 114
-      Script: {instanceID: 13464}
+      Script: {instanceID: 13466}
     - Class: 114
-      Script: {instanceID: 13684}
+      Script: {instanceID: 13686}
     - Class: 114
-      Script: {instanceID: 14184}
+      Script: {instanceID: 14186}
     - Class: 114
-      Script: {instanceID: 19174}
+      Script: {instanceID: 20190}
     - Class: 115
       Script: {instanceID: 0}
     - Class: 135
@@ -516,6 +516,12 @@ ScriptsOnlyBuild:
     assemblyName: UnityEngine.XR.LegacyInputHelpers.dll
     namespaceName: UnityEngine.XR.LegacyInputHelpers
     className: TransitionArmModel
+  - hash:
+      serializedVersion: 2
+      Hash: 4c99ee0145faab3931c9377720ed7e38
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: OVRHandGrabber
   - hash:
       serializedVersion: 2
       Hash: 5ab533713adae59372fb3e10a585c186
@@ -1736,10 +1742,10 @@ ScriptsOnlyBuild:
     className: PlayableTrack
   - hash:
       serializedVersion: 2
-      Hash: 4c99ee0145faab3931c9377720ed7e38
+      Hash: 0182aac3fd8bfdeff27021b9548c3a6a
     assemblyName: Assembly-CSharp.dll
     namespaceName: 
-    className: OVRHandGrabber
+    className: OVRGrabbableExt
   platform: 13
   scenePathNames:
   - Assets/Scenes/BaseScene.unity
