@@ -3,6 +3,7 @@ ScriptsOnlyBuild:
     Assembly-CSharp.dll:
     - CubeInteraction
     - HandMGR
+    - LaserPointerController
     - OVRGrabbableExt
     - OVRHandGrabber
     - OVRTouchSample.Hand
@@ -13,6 +14,7 @@ ScriptsOnlyBuild:
     - OVRConfig
     Oculus.VR.dll:
     - OVRCameraRig
+    - OVRGrabbable
     - OVRGrabber
     - OVRHand
     - OVRHeadsetEmulator
@@ -108,9 +110,11 @@ ScriptsOnlyBuild:
     - Class: 114
       Script: {instanceID: 13788}
     - Class: 114
-      Script: {instanceID: 14190}
+      Script: {instanceID: 13978}
     - Class: 114
-      Script: {instanceID: 19900}
+      Script: {instanceID: 14192}
+    - Class: 114
+      Script: {instanceID: 21532}
     - Class: 115
       Script: {instanceID: 0}
     - Class: 135
@@ -1572,6 +1576,12 @@ ScriptsOnlyBuild:
     className: TestScript
   - hash:
       serializedVersion: 2
+      Hash: 80773e333d16aa43ae145b837724a27a
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: HandMGR
+  - hash:
+      serializedVersion: 2
       Hash: 1b862038859b267ceaddb5cf7530c567
     assemblyName: Assembly-CSharp.dll
     namespaceName: 
@@ -1776,10 +1786,10 @@ ScriptsOnlyBuild:
     className: PlayableTrack
   - hash:
       serializedVersion: 2
-      Hash: 80773e333d16aa43ae145b837724a27a
+      Hash: adade79c3c48df535382ef646eda5479
     assemblyName: Assembly-CSharp.dll
     namespaceName: 
-    className: HandMGR
+    className: LaserPointerController
   platform: 13
   scenePathNames:
   - Assets/Scenes/BaseScene.unity

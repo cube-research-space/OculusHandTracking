@@ -5,7 +5,7 @@
 public class OVRHandGrabber : OVRGrabber
 {
     private OVRHand hand;
-    public float pinchThreshold = 0.05f;
+    public float pinchThreshold = 0.3f;
 
     protected override void Start()
     {
@@ -21,7 +21,8 @@ public class OVRHandGrabber : OVRGrabber
 
     private void CheckIndexPinch()
     {
-        float pinchStrength = hand.GetFingerPinchStrength(OVRHand.HandFinger.Index);
+        //float pinchStrength = hand.GetFingerPinchStrength(OVRHand.HandFinger.Index);
+        float pinchStrength = hand.GetFingerPinchStrength(OVRHand.HandFinger.Middle);       // Trigger grab when middle finger is pinched
         bool isPinching = pinchStrength > pinchThreshold;
 
         if (!m_grabbedObj && isPinching && m_grabCandidates.Count > 0)

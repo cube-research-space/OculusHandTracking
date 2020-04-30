@@ -115,7 +115,7 @@ MonoBehaviour:
   m_MinSize: {x: 679, y: 492}
   m_MaxSize: {x: 14002, y: 14042}
   vertical: 0
-  controlID: 42
+  controlID: 41
 --- !u!114 &6
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -140,7 +140,7 @@ MonoBehaviour:
   m_MinSize: {x: 403, y: 492}
   m_MaxSize: {x: 10001, y: 14042}
   vertical: 1
-  controlID: 43
+  controlID: 42
 --- !u!114 &7
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -165,7 +165,7 @@ MonoBehaviour:
   m_MinSize: {x: 403, y: 221}
   m_MaxSize: {x: 8003, y: 4021}
   vertical: 0
-  controlID: 44
+  controlID: 43
 --- !u!114 &8
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -211,8 +211,8 @@ MonoBehaviour:
     y: 0
     width: 1386
     height: 671
-  m_MinSize: {x: 200, y: 200}
-  m_MaxSize: {x: 4000, y: 4000}
+  m_MinSize: {x: 202, y: 221}
+  m_MaxSize: {x: 4002, y: 4021}
   m_ActualView: {fileID: 13}
   m_Panes:
   - {fileID: 13}
@@ -267,8 +267,8 @@ MonoBehaviour:
     y: 0
     width: 276
     height: 947
-  m_MinSize: {x: 275, y: 50}
-  m_MaxSize: {x: 4000, y: 4000}
+  m_MinSize: {x: 276, y: 71}
+  m_MaxSize: {x: 4001, y: 4021}
   m_ActualView: {fileID: 19}
   m_Panes:
   - {fileID: 19}
@@ -340,9 +340,9 @@ MonoBehaviour:
   m_PlayAudio: 0
   m_AudioPlay: 0
   m_Position:
-    m_Target: {x: -0.36842942, y: 0.8004184, z: -0.071174264}
+    m_Target: {x: 0, y: 1.5, z: 0}
     speed: 2
-    m_Value: {x: -0.36842942, y: 0.8004184, z: -0.071174264}
+    m_Value: {x: 0, y: 1.5, z: 0}
   m_RenderMode: 0
   m_CameraMode:
     drawMode: 0
@@ -392,9 +392,9 @@ MonoBehaviour:
     speed: 2
     m_Value: {x: -0.059345596, y: 0.84841186, z: -0.09740628, w: -0.5169019}
   m_Size:
-    m_Target: 1.2464101
+    m_Target: 0.98101765
     speed: 2
-    m_Value: 1.2464101
+    m_Value: 0.98101765
   m_Ortho:
     m_Target: 0
     speed: 2
@@ -450,21 +450,21 @@ MonoBehaviour:
       scrollPos: {x: 0, y: 0}
       m_SelectedIDs: 
       m_LastClickedID: 0
-      m_ExpandedIDs: 2eeaffff4ceaffff6cecffffc6eeffffe4eeffff04f1ffff94f2ffffb4f2ffffd4f4ffff04faffff12faffff24faffff28faffff2afaffff30faffff6efbffffd85a0000645b0000c45c0000c65c0000
+      m_ExpandedIDs: 2ce6ffff4ae6ffff72e8ffff48ebffff66ebffff8eedfffff2f4ffff12f5ffff36f7ffff36faffff6efbffff
       m_RenameOverlay:
         m_UserAcceptedRename: 0
-        m_Name: 
-        m_OriginalName: 
+        m_Name: Laser Pointer
+        m_OriginalName: Laser Pointer
         m_EditFieldRect:
           serializedVersion: 2
           x: 0
           y: 0
           width: 0
           height: 0
-        m_UserData: 0
+        m_UserData: -3976
         m_IsWaitingForDelay: 0
         m_IsRenaming: 0
-        m_OriginalEventType: 11
+        m_OriginalEventType: 0
         m_IsRenamingFilename: 0
         m_ClientGUIView: {fileID: 8}
       m_SearchString: 
@@ -630,20 +630,20 @@ MonoBehaviour:
     m_SkipHidden: 0
     m_SearchArea: 1
     m_Folders:
-    - Assets
+    - Assets/Prefabs
   m_ViewMode: 1
   m_StartGridSize: 60
   m_LastFolders:
-  - Assets
+  - Assets/Prefabs
   m_LastFoldersGridSize: 60
   m_LastProjectPath: D:\Projects\CUBE\OculusHandTracking\OculusHandTracking
   m_LockTracker:
     m_IsLocked: 0
   m_FolderTreeState:
-    scrollPos: {x: 0, y: 79}
-    m_SelectedIDs: 3a3e0000
-    m_LastClickedID: 15930
-    m_ExpandedIDs: 000000003a3e00003c3e00003e3e0000403e0000423e0000443e0000463e000000ca9a3b
+    scrollPos: {x: 0, y: 549}
+    m_SelectedIDs: 34540000
+    m_LastClickedID: 21556
+    m_ExpandedIDs: 000000004c3e00004e3e0000503e0000523e0000543e0000563e0000583e000000ca9a3b
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -671,7 +671,7 @@ MonoBehaviour:
     scrollPos: {x: 0, y: 0}
     m_SelectedIDs: 
     m_LastClickedID: 0
-    m_ExpandedIDs: 000000003a3e00003c3e00003e3e0000403e0000423e0000443e0000463e0000
+    m_ExpandedIDs: 000000004c3e00004e3e0000503e0000523e0000543e0000563e0000583e0000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
